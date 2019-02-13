@@ -21,7 +21,7 @@ public class AddMovieActivity extends AppCompatActivity {
     private static final String KEY_GENRE = "genre";
     private static final String KEY_YEAR = "year";
     private static final String KEY_RATING = "rating";
-    private static final String BASE_URL = "https://chandansatyendraprasad.000webhostapp.com/test_data/";
+    private static final String BASE_URL = "https://akashparkale.000webhostapp.com/test_data/";//Base url for accessing all Files on the server
     private static String STRING_EMPTY = "";
     private EditText movieNameEditText, genreEditText, yearEditText, ratingEditText;
     private String movieName,genre, year, rating;
